@@ -9,19 +9,19 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/syed-muhammad-ashman/">
-  <img src="https://img.shields.io/badge/LinkedIn-C69749?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-C69749?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="mailto:syedashmanmumtaz@gmail.com">
-  <img src="https://img.shields.io/badge/Email-C69749?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-C69749?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
 <a href="https://github.com/syedashman">
-  <img src="https://img.shields.io/badge/GitHub-C69749?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-C69749?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;
 <a href="https://www.upwork.com/freelancers/~01eecd2eef24a8bd49?viewMode=1">
-  <img src="https://img.shields.io/badge/Upwork-C69749?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
+<img src="https://img.shields.io/badge/Upwork-C69749?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
 </a>
 
 <br/><br/>
@@ -47,170 +47,89 @@ My work sits at the intersection of **Data Science, AI Automation and Full-Stack
 
 <br/>
 
-<table>
-<tr>
-<td><b>🎯 Focus</b></td>
-<td>Data Science • AI Automation • Full-Stack Development</td>
-</tr>
-<tr>
-<td><b>💻 Core</b></td>
-<td>Python • JavaScript • SQL</td>
-</tr>
-<tr>
-<td><b>🚀 Building</b></td>
-<td>Practical AI-powered products</td>
-</tr>
-<tr>
-<td><b>🧠 Mindset</b></td>
-<td>Learn • Build • Ship</td>
-</tr>
-</table>
+**🎯 Focus** &nbsp; `Data Science` • `AI Automation` • `Full-Stack Development`
+
+**💻 Core** &nbsp; `Python` • `JavaScript` • `SQL`
+
+**🚀 Building** &nbsp; Practical AI-powered products
+
+**🧠 Mindset** &nbsp; `Learn` • `Build` • `Ship`
 
 ---
 
 # 🚀 Featured Builds
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 📊 Fusion Data Cleaner
+**`Large-Scale Data Automation`**
 
-<h3>📊 Fusion Data Cleaner</h3>
+> Automated large-scale inventory data cleaning and Fusion attribute mapping, transforming a multi-day manual workflow into a process completed within minutes.
 
-<b>Large-Scale Data Automation</b>
+`Python` `Pandas` `NumPy` `Streamlit` `Excel Automation`
 
-<br/><br/>
-
-Python-based data cleaning and automation system designed to process large inventory datasets, intelligently fill Fusion attributes and preserve existing workbook structure.
-
-<br/><br/>
-
-<b>Key Features</b>
-
-• Automated Excel data-cleaning workflows<br/>
-• Large-scale dataset processing<br/>
-• Intelligent attribute extraction & mapping<br/>
-• Streamlit-based interface<br/>
-• Reduced multi-day manual work to minutes
-
-<br/><br/>
-
-<b>Tech Stack</b>
-
-`Python` `Pandas` `NumPy` `Streamlit` `Excel`
-
-<br/><br/>
+<br/>
 
 <a href="https://github.com/syedashman/Fusion-Data-Cleaner">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=C69749" alt="Fusion Data Cleaner"/>
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-C69749?style=for-the-badge&logo=github&logoColor=white" alt="Fusion Data Cleaner"/>
 </a>
 
-</td>
-
-<td width="50%" valign="top">
-
-<h3>👕 TryFit AI</h3>
-
-<b>AI Virtual Try-On Platform</b>
-
 <br/><br/>
 
-AI-powered virtual try-on system designed for fashion e-commerce, allowing users to preview garments while preserving identity and pose.
+---
 
-<br/><br/>
+### 👕 TryFit AI
+**`AI Virtual Try-On Platform`**
 
-<b>Key Features</b>
-
-• AI-powered virtual try-on<br/>
-• Garment analysis & classification<br/>
-• Automated outfit completion<br/>
-• Pose and identity preservation<br/>
-• E-commerce focused architecture
-
-<br/><br/>
-
-<b>Tech Stack</b>
+> AI-powered fashion try-on system with garment analysis, intelligent outfit completion, and pose & identity preservation for realistic virtual fitting.
 
 `Python` `FastAPI` `Gemini` `Vertex AI` `OpenCV`
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/syedashman/TryFit-AI">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=C69749" alt="TryFit AI"/>
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-C69749?style=for-the-badge&logo=github&logoColor=white" alt="TryFit AI"/>
 </a>
 
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<h3>🚗 PakRide</h3>
-
-<b>AI Smart Carpool Matching</b>
-
 <br/><br/>
 
-Cross-platform smart carpooling platform that intelligently matches riders and drivers based on route compatibility.
+---
 
-<br/><br/>
+### 🚗 PakRide
+**`AI Smart Carpool Matching`**
 
-<b>Key Features</b>
-
-• AI-based ride matching<br/>
-• Route compatibility scoring<br/>
-• Real-time communication<br/>
-• Cross-platform mobile architecture<br/>
-• Secure authentication & ride booking
-
-<br/><br/>
-
-<b>Tech Stack</b>
+> Cross-platform smart carpooling platform featuring AI-based ride matching, route compatibility scoring, real-time communication and secure ride booking.
 
 `React Native` `Node.js` `Express` `Python` `PostgreSQL`
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/syedashman?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_Project-181717?style=for-the-badge&logo=github&logoColor=C69749" alt="PakRide"/>
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-181717?style=for-the-badge&logo=github&logoColor=C69749" alt="PakRide"/>
 </a>
 
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🦷 AI Dental Appointment Agent</h3>
-
-<b>Conversational AI Automation</b>
-
 <br/><br/>
 
-24/7 WhatsApp-based AI assistant designed to answer customer queries and automate appointment scheduling.
+---
 
-<br/><br/>
+### 🦷 AI Dental Appointment Agent
+**`Conversational AI Automation`**
 
-<b>Key Features</b>
-
-• Conversational appointment booking<br/>
-• WhatsApp integration<br/>
-• Automated FAQs<br/>
-• Existing booking management<br/>
-• Admin dashboard
-
-<br/><br/>
-
-<b>Tech Stack</b>
+> 24/7 WhatsApp AI assistant that handles customer queries, FAQs and appointment scheduling through an automated conversational workflow.
 
 `Node.js` `Express` `MongoDB` `Twilio` `AI APIs`
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/syedashman?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_Project-181717?style=for-the-badge&logo=github&logoColor=C69749" alt="Dental Agent"/>
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-181717?style=for-the-badge&logo=github&logoColor=C69749" alt="Dental Appointment Agent"/>
 </a>
 
-</td>
-</tr>
-</table>
+<br/><br/>
+
+```text
+┌───────────────────────────────────────────────────────────────┐
+│   REAL PROJECTS  •  REAL PROBLEMS  •  PRACTICAL SOLUTIONS   │
+└───────────────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -226,7 +145,7 @@ Cross-platform smart carpooling platform that intelligently matches riders and d
 
 ### Frameworks & Development
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi,wordpress&theme=dark" alt="Development"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi,wordpress&theme=dark" alt="Frameworks"/>
 
 <br/><br/>
 
@@ -243,9 +162,9 @@ Cross-platform smart carpooling platform that intelligently matches riders and d
 <img src="https://img.shields.io/badge/Matplotlib-181717?style=for-the-badge&logo=python&logoColor=C69749" alt="Matplotlib"/>
 <img src="https://img.shields.io/badge/Machine_Learning-181717?style=for-the-badge&logo=scikitlearn&logoColor=C69749" alt="Machine Learning"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Gemini_AI-181717?style=for-the-badge&logo=googlegemini&logoColor=C69749" alt="Gemini"/>
+<img src="https://img.shields.io/badge/Gemini_AI-181717?style=for-the-badge&logo=googlegemini&logoColor=C69749" alt="Gemini AI"/>
 <img src="https://img.shields.io/badge/Vertex_AI-181717?style=for-the-badge&logo=googlecloud&logoColor=C69749" alt="Vertex AI"/>
 <img src="https://img.shields.io/badge/Power_BI-181717?style=for-the-badge&logo=powerbi&logoColor=C69749" alt="Power BI"/>
 
@@ -275,7 +194,7 @@ Cross-platform smart carpooling platform that intelligently matches riders and d
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=syedashman&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C69749&icon_color=C69749&text_color=FFFFFF&ring_color=C69749&rank_icon=github" alt="Syed Ashman GitHub Stats"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=syedashman&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C69749&icon_color=C69749&text_color=FFFFFF&ring_color=C69749&rank_icon=github" alt="GitHub Stats"/>
 
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedashman&layout=compact&hide_border=true&bg_color=0D1117&title_color=C69749&text_color=FFFFFF" alt="Top Languages"/>
 
@@ -289,27 +208,13 @@ Cross-platform smart carpooling platform that intelligently matches riders and d
 
 # 🎯 Currently
 
-<table>
-<tr>
-<td>🤖</td>
-<td>Exploring <b>AI Engineering & Intelligent Automation</b></td>
-</tr>
+🤖 Exploring **AI Engineering & Intelligent Automation**
 
-<tr>
-<td>📊</td>
-<td>Strengthening my <b>Data Science & Data Engineering</b> skills</td>
-</tr>
+📊 Strengthening my **Data Science & Data Engineering** skills
 
-<tr>
-<td>🧠</td>
-<td>Building with <b>Python, AI APIs & modern web technologies</b></td>
-</tr>
+🧠 Building with **Python, AI APIs & modern web technologies**
 
-<tr>
-<td>🚀</td>
-<td>Turning ideas into <b>practical, real-world products</b></td>
-</tr>
-</table>
+🚀 Turning ideas into **practical, real-world products**
 
 ---
 
@@ -336,12 +241,12 @@ I'm always interested in discussing **AI • Data Science • Automation • Sof
 </a>
 &nbsp;
 <a href="https://www.upwork.com/freelancers/~01eecd2eef24a8bd49?viewMode=1">
-<img src="https://img.shields.io/badge/Hire_Me_on_Upwork-C69749?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
+<img src="https://img.shields.io/badge/HIRE_ME_ON_UPWORK-C69749?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
 </a>
 
 <br/><br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=1200&color=C69749&center=true&vCenter=true&width=600&lines=Learning.+Building.+Improving.;One+project+at+a+time." alt="Footer Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3500&pause=1200&color=C69749&center=true&vCenter=true&width=600&lines=Learning.+Building.+Improving.;One+project+at+a+time." alt="Footer Animation"/>
 
 <br/>
 
