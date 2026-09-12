@@ -4,7 +4,10 @@
 
 ### Data Science • AI Automation • Full-Stack Development
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=C69749&center=true&vCenter=true&width=750&lines=Building+AI-powered+products;Turning+data+into+practical+solutions;Automating+real-world+workflows;Learning.+Building.+Shipping." alt="Typing SVG" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=C69749&center=true&vCenter=true&width=760&lines=Building+AI-powered+products;Turning+data+into+practical+solutions;Automating+real-world+workflows;Learning.+Building.+Shipping."
+  alt="Typing SVG"
+/>
 
 <br/><br/>
 
@@ -26,7 +29,7 @@
 
 <br/><br/>
 
-**`Turning ideas into intelligent, data-driven solutions.`**
+### `Turning ideas into intelligent, data-driven solutions.`
 
 </div>
 
@@ -43,7 +46,7 @@
 
 I'm a **Data Science student** focused on building intelligent, data-driven products that solve real-world problems.
 
-My work sits at the intersection of **Data Science, AI Automation and Full-Stack Development** — from automating large-scale data workflows to building AI-powered applications, smart mobility platforms and conversational agents.
+My work sits at the intersection of **Data Science, AI Automation and Full-Stack Development** — from automating large-scale workflows to building AI-powered applications, smart mobility platforms, dashboards and conversational agents.
 
 <br/>
 
@@ -125,10 +128,27 @@ My work sits at the intersection of **Data Science, AI Automation and Full-Stack
 
 <br/><br/>
 
+---
+
+### 🏭 C-Thru Dashboard
+**`Industrial Analytics & Dashboard Redesign`**
+
+> Modernized an industrial monitoring dashboard with a responsive interface, reusable UI components, data visualization and a clean glass-inspired visual system.
+
+`React` `Vite` `Tailwind CSS` `Charts` `Responsive UI`
+
+<br/>
+
+<a href="https://github.com/syedashman?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-181717?style=for-the-badge&logo=github&logoColor=C69749" alt="C-Thru Dashboard"/>
+</a>
+
+<br/><br/>
+
 ```text
-┌───────────────────────────────────────────────────────────────┐
-│   REAL PROJECTS  •  REAL PROBLEMS  •  PRACTICAL SOLUTIONS   │
-└───────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────┐
+│      REAL PROJECTS  •  REAL PROBLEMS  •  PRACTICAL SOLUTIONS │
+└────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -185,7 +205,8 @@ My work sits at the intersection of **Data Science, AI Automation and Full-Stack
 02  →  Data automation pipelines
 03  →  Intelligent workflow automation
 04  →  Full-stack web & mobile products
-05  →  Practical solutions to real-world problems
+05  →  Analytics dashboards
+06  →  Practical solutions to real-world problems
 ```
 
 ---
@@ -225,7 +246,6 @@ My work sits at the intersection of **Data Science, AI Automation and Full-Stack
 
 ---
 
-
 # 🎯 Currently
 
 🤖 Exploring **AI Engineering & Intelligent Automation**
@@ -234,7 +254,39 @@ My work sits at the intersection of **Data Science, AI Automation and Full-Stack
 
 🧠 Building with **Python, AI APIs & modern web technologies**
 
+⚙️ Working on **automation, intelligent systems & production-ready applications**
+
 🚀 Turning ideas into **practical, real-world products**
+
+---
+
+# 🌐 Find Me Online
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/syed-muhammad-ashman/">
+<img src="https://img.shields.io/badge/LinkedIn-C69749?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+&nbsp;
+
+<a href="https://www.upwork.com/freelancers/~01eecd2eef24a8bd49?viewMode=1">
+<img src="https://img.shields.io/badge/Upwork-181717?style=for-the-badge&logo=upwork&logoColor=C69749" alt="Upwork"/>
+</a>
+
+&nbsp;
+
+<a href="https://github.com/syedashman">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=C69749" alt="GitHub"/>
+</a>
+
+&nbsp;
+
+<a href="mailto:syedashmanmumtaz@gmail.com">
+<img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=C69749" alt="Email"/>
+</a>
+
+</div>
 
 ---
 
@@ -242,31 +294,35 @@ My work sits at the intersection of **Data Science, AI Automation and Full-Stack
 
 <div align="center">
 
-### Open to collaborations, opportunities & interesting projects.
+### Open to collaborations, freelance projects, internships & interesting opportunities.
 
-I'm always interested in discussing **AI • Data Science • Automation • Software Development**
+I'm always interested in discussing  
+**AI • Data Science • Automation • Full-Stack Development**
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/syed-muhammad-ashman/">
-<img src="https://img.shields.io/badge/LinkedIn-C69749?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-C69749?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
 &nbsp;
-<a href="mailto:syedashmanmumtaz@gmail.com">
-<img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=C69749" alt="Email"/>
-</a>
-&nbsp;
-<a href="https://github.com/syedashman">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=C69749" alt="GitHub"/>
-</a>
-&nbsp;
+
 <a href="https://www.upwork.com/freelancers/~01eecd2eef24a8bd49?viewMode=1">
 <img src="https://img.shields.io/badge/HIRE_ME_ON_UPWORK-C69749?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
 </a>
 
+&nbsp;
+
+<a href="mailto:syedashmanmumtaz@gmail.com">
+<img src="https://img.shields.io/badge/SEND_ME_AN_EMAIL-181717?style=for-the-badge&logo=gmail&logoColor=C69749" alt="Email"/>
+</a>
+
 <br/><br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3500&pause=1200&color=C69749&center=true&vCenter=true&width=600&lines=Learning.+Building.+Improving.;One+project+at+a+time." alt="Footer Animation"/>
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3500&pause=1200&color=C69749&center=true&vCenter=true&width=650&lines=Learning.+Building.+Improving.;One+project+at+a+time.;Learn.+Build.+Ship.+Repeat."
+  alt="Footer Animation"
+/>
 
 <br/>
 
