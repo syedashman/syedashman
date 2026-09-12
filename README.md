@@ -1,16 +1,24 @@
 <div align="center">
 
-# 👋 Hi, I'm Syed Muhammad Ashman
+<h1>👋 Hi, I'm Syed Muhammad Ashman</h1>
 
-### Data Science • AI Automation • Full-Stack Development
+<h3>Data Science • AI Automation • Full-Stack Development</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=C69749&center=true&vCenter=true&width=650&lines=Building+AI-powered+products;Turning+data+into+practical+solutions;Automating+real-world+workflows;Learning.+Building.+Shipping." alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-C69749?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/syed-muhammad-ashman/)
-[![Gmail](https://img.shields.io/badge/Email-C69749?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:syedashmanmumtaz@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-C69749?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/syedashman)
+<a href="https://www.linkedin.com/in/syed-muhammad-ashman/">
+<img src="https://img.shields.io/badge/LinkedIn-C69749?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:syedashmanmumtaz@gmail.com">
+<img src="https://img.shields.io/badge/Email-C69749?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/syedashman">
+<img src="https://img.shields.io/badge/GitHub-C69749?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -27,7 +35,7 @@
 
 I'm a **Data Science student** focused on building intelligent, data-driven products that solve real-world problems.
 
-My work sits at the intersection of **Data Science, AI Automation and Full-Stack Development** — from automating large-scale Excel workflows to building AI-powered virtual try-on systems, smart mobility platforms and conversational agents.
+My work sits at the intersection of **Data Science, AI Automation and Full-Stack Development** — from automating large-scale data workflows to building AI-powered applications, smart mobility platforms and conversational agents.
 
 ```python
 ashman = {
@@ -40,13 +48,9 @@ ashman = {
 
 ---
 
-## 🚀 Featured Builds
+# 🚀 Featured Builds
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Fusion Data Cleaner
+## 📊 Fusion Data Cleaner
 
 **Large-Scale Data Automation**
 
@@ -56,81 +60,63 @@ Python-based data cleaning and automation system designed to process large inven
 
 * Automated repetitive Excel data-cleaning workflows
 * Large-scale dataset processing
-* Intelligent attribute extraction & mapping
+* Intelligent attribute extraction and mapping
 * Streamlit-based interface
 * Reduced a multi-day manual workflow to minutes
 
-**Tech**
+**Tech:** `Python` `Pandas` `NumPy` `Streamlit` `Excel`
 
-`Python` `Pandas` `NumPy` `Streamlit` `Excel`
+<a href="https://github.com/syedashman/Fusion-Data-Cleaner">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<br/>
+---
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github)](https://github.com/syedashman/Fusion-Data-Cleaner)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 👕 TryFit AI
+## 👕 TryFit AI
 
 **AI Virtual Try-On Platform**
 
-An AI-powered virtual try-on system built for fashion e-commerce, allowing users to preview clothing on their own photos while preserving identity and pose.
+AI-powered virtual try-on system designed for fashion e-commerce, allowing users to preview garments on their own photos while preserving identity and pose.
 
 **Highlights**
 
 * AI-powered virtual try-on
-* Garment analysis & classification
+* Garment analysis and classification
 * Automated outfit completion
 * Pose and identity preservation
-* Built for e-commerce integration
+* E-commerce focused architecture
 
-**Tech**
+**Tech:** `Python` `FastAPI` `Gemini` `Vertex AI` `OpenCV`
 
-`Python` `FastAPI` `Gemini` `Vertex AI` `OpenCV`
+<a href="https://github.com/syedashman/TryFit-AI">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<br/>
+---
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github)](https://github.com/syedashman/TryFit-AI)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🚗 PakRide
+## 🚗 PakRide
 
 **AI Smart Carpool Matching**
 
-A cross-platform smart carpooling platform that intelligently matches riders and drivers based on route compatibility.
+Cross-platform smart carpooling platform that intelligently matches riders and drivers based on route compatibility.
 
 **Highlights**
 
 * AI-based ride matching
 * Route compatibility scoring
 * Real-time communication
-* Cross-platform mobile architecture
-* Secure authentication & ride booking
+* Cross-platform mobile application
+* Secure authentication and ride booking
 
-**Tech**
+**Tech:** `React Native` `Node.js` `Express` `Python` `PostgreSQL`
 
-`React Native` `Node.js` `Express` `Python` `PostgreSQL`
+---
 
-<br/>
-
-[![GitHub](https://img.shields.io/badge/Explore_Project-181717?style=for-the-badge\&logo=github)](https://github.com/syedashman?tab=repositories)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🦷 AI Dental Appointment Agent
+## 🦷 AI Dental Appointment Agent
 
 **Conversational AI Automation**
 
-A 24/7 WhatsApp-based AI appointment assistant designed to answer customer queries and automate appointment scheduling.
+24/7 WhatsApp-based AI appointment assistant designed to answer customer queries and automate appointment scheduling.
 
 **Highlights**
 
@@ -140,26 +126,16 @@ A 24/7 WhatsApp-based AI appointment assistant designed to answer customer queri
 * Existing booking management
 * Admin dashboard
 
-**Tech**
-
-`Node.js` `Express` `MongoDB` `Twilio` `AI APIs`
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/Explore_Project-181717?style=for-the-badge\&logo=github)](https://github.com/syedashman?tab=repositories)
-
-</td>
-</tr>
-</table>
+**Tech:** `Node.js` `Express` `MongoDB` `Twilio` `AI APIs`
 
 ---
 
-## 🧠 Tech Arsenal
+# 🧠 Tech Arsenal
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,sql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css&theme=dark" />
 </p>
 
 ### Development
@@ -176,17 +152,7 @@ A 24/7 WhatsApp-based AI appointment assistant designed to answer customer queri
 
 ### Data & AI
 
-<p>
-
-`Pandas`  
-`NumPy`  
-`Matplotlib`  
-`Machine Learning`  
-`Gemini AI`  
-`Vertex AI`  
-`Power BI`
-
-</p>
+`Pandas` • `NumPy` • `Matplotlib` • `Machine Learning` • `Gemini AI` • `Vertex AI` • `Power BI`
 
 ### Tools
 
@@ -196,7 +162,7 @@ A 24/7 WhatsApp-based AI appointment assistant designed to answer customer queri
 
 ---
 
-## ⚡ What I Like Building
+# ⚡ What I Like Building
 
 ```text
 01. AI-powered applications
@@ -208,7 +174,7 @@ A 24/7 WhatsApp-based AI appointment assistant designed to answer customer queri
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -216,11 +182,7 @@ A 24/7 WhatsApp-based AI appointment assistant designed to answer customer queri
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedashman&layout=compact&hide_border=true&bg_color=0D1117&title_color=C69749&text_color=FFFFFF" />
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=syedashman&theme=dark&hide_border=true&background=0D1117&ring=C69749&fire=C69749&currStreakLabel=C69749" />
 
@@ -228,7 +190,7 @@ A 24/7 WhatsApp-based AI appointment assistant designed to answer customer queri
 
 ---
 
-## 📈 Contribution Activity
+# 📈 Contribution Activity
 
 <div align="center">
 
@@ -238,33 +200,35 @@ A 24/7 WhatsApp-based AI appointment assistant designed to answer customer queri
 
 ---
 
-## 🎯 Currently
+# 🎯 Currently
 
 * 🤖 Exploring **AI Engineering & intelligent automation**
 * 📊 Strengthening my **Data Science & Data Engineering** skills
-* 🧠 Building practical projects using **Python, AI APIs and modern web technologies**
-* 🚀 Turning ideas into products that can solve real problems
+* 🧠 Building projects using **Python, AI APIs and modern web technologies**
+* 🚀 Turning ideas into practical products
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
 <div align="center">
 
-### Have an idea, opportunity or interesting project?
+<h3>Have an idea, opportunity or interesting project?</h3>
 
 I'm always interested in discussing **AI, Data Science, Automation and Software Development**.
 
-<br/>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-C69749?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/syed-muhammad-ashman/)
+<a href="https://www.linkedin.com/in/syed-muhammad-ashman/">
+<img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-C69749?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![Email](https://img.shields.io/badge/Send_me_an_Email-181717?style=for-the-badge\&logo=gmail\&logoColor=C69749)](mailto:syedashmanmumtaz@gmail.com)
+<a href="mailto:syedashmanmumtaz@gmail.com">
+<img src="https://img.shields.io/badge/Send_me_an_Email-181717?style=for-the-badge&logo=gmail&logoColor=C69749"/>
+</a>
 
-<br/>
+<br/><br/>
 
-```text
-"Learning. Building. Improving — one project at a time."
-```
+<code>Learning. Building. Improving — one project at a time.</code>
 
 </div>
