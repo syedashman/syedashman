@@ -225,7 +225,6 @@ My work sits at the intersection of **Data Science, AI Automation and Full-Stack
 
 ---
 
----
 
 # 🎯 Currently
 
