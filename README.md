@@ -194,15 +194,36 @@ My work sits at the intersection of **Data Science, AI Automation and Full-Stack
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=syedashman&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C69749&icon_color=C69749&text_color=FFFFFF&ring_color=C69749&rank_icon=github" alt="GitHub Stats"/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syedashman&theme=github_dark"
+  height="180"
+  alt="GitHub Stats"
+/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedashman&layout=compact&hide_border=true&bg_color=0D1117&title_color=C69749&text_color=FFFFFF" alt="Top Languages"/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syedashman&theme=github_dark"
+  height="180"
+  alt="Top Languages"
+/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=syedashman&theme=dark&hide_border=true&background=0D1117&ring=C69749&fire=C69749&currStreakNum=FFFFFF&currStreakLabel=C69749&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E" alt="GitHub Streak"/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syedashman&theme=github_dark"
+  width="90%"
+  alt="Contribution Graph"
+/>
+
+<br/><br/>
+
+<img
+  src="https://streak-stats.demolab.com?user=syedashman&theme=dark&hide_border=true&background=0D1117&ring=C69749&fire=C69749&currStreakNum=FFFFFF&currStreakLabel=C69749&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E"
+  alt="GitHub Streak"
+/>
 
 </div>
+
+---
 
 ---
 
